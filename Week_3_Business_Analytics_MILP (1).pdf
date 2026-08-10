@@ -1,0 +1,495 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 7
+/Kids [ 4 0 R 12 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 4407
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 60 713.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F2 16 Tf 22 TL 123.768 0 Td (WEEK-3 BUSINESS ANALYTICS) Tj T* -123.768 0 Td ET
+Q
+Q
+q
+1 0 0 1 60 697.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL 4.932 0 Td (Multi-Echelon Supply Chain Network Design via Mixed-Integer Linear Programming \(MILP\)) Tj T* -4.932 0 Td ET
+Q
+Q
+q
+1 0 0 1 60 673.6 cm
+Q
+q
+1 0 0 1 60 641.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (Student Details) Tj T* ET
+Q
+Q
+q
+1 0 0 1 90 563.6 cm
+q
+0 0 0 rg
+BT /F2 10.5 Tf 12 TL ET
+BT 1 0 0 1 6 55.5 Tm (Name) Tj T* ET
+BT /F1 10.5 Tf 12 TL ET
+BT 1 0 0 1 114 55.5 Tm (akash) Tj T* ET
+BT /F2 10.5 Tf 12 TL ET
+BT 1 0 0 1 6 31.5 Tm (Dept) Tj T* ET
+BT /F1 10.5 Tf 12 TL ET
+BT 1 0 0 1 114 31.5 Tm (BSC., CS\(AIML\) 2nd year) Tj T* ET
+BT /F2 10.5 Tf 12 TL ET
+BT 1 0 0 1 6 7.5 Tm (Enroll No) Tj T* ET
+BT /F1 10.5 Tf 12 TL ET
+BT 1 0 0 1 114 7.5 Tm (TU6253210211001) Tj T* ET
+q
+1 J
+1 j
+0 0 0 RG
+.75 w
+n 0 72 m 432 72 l S
+n 0 0 m 432 0 l S
+n 0 0 m 0 72 l S
+n 432 0 m 432 72 l S
+.501961 .501961 .501961 RG
+.5 w
+n 0 48 m 432 48 l S
+n 0 24 m 432 24 l S
+n 108 0 m 108 72 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 531.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (1. Task Name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 510.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Multi-Echelon Supply Chain Network Design via Mixed-Integer Linear Programming \(MILP\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 478.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (2. Description) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 412.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 49.5 Tm /F1 10.5 Tf 15 TL (Students will model a global logistics network with factories, warehouses, and customer zones. They must) Tj T* (write formal linear programming constraint matrices representing multi-echelon transport limits,) Tj T* (warehouse storage capacities, and minimum service level bounds, solving the optimization problem to) Tj T* (minimize total supply chain operating expenditures.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 380.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (3. What is MILP?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 344.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (MILP stands for Mixed-Integer Linear Programming. It is an optimization technique used when some) Tj T* (decisions are continuous and some decisions must be integer or binary.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 323.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Examples:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 302.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (\177 How many units should each factory produce?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 281.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (\177 How many units should be transported from factories to warehouses?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 260.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (\177 How many units should be transported from warehouses to customers?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 239.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (\177 Should a warehouse be opened?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 218.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (\177 What is the minimum total supply-chain cost?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 186.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (4. Supply Chain Structure) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 144.6 cm
+q
+.960784 .960784 .960784 rg
+n -6 -6 504 48 re f*
+Q
+q
+BT 1 0 0 1 0 27 Tm 12 TL /F3 9 Tf 0 0 0 rg (Factory 1 ) Tj /F4 9 Tf 12 TL (\256) Tj /F3 9 Tf 12 TL ( Warehouse 1 ) Tj /F4 9 Tf 12 TL (\256) Tj /F3 9 Tf 12 TL ( Customer Zone 1) Tj  T* (Factory 2 ) Tj /F4 9 Tf 12 TL (\256) Tj /F3 9 Tf 12 TL ( Warehouse 2 ) Tj /F4 9 Tf 12 TL (\256) Tj /F3 9 Tf 12 TL ( Customer Zone 2) Tj  T* (Factory 3 ) Tj /F4 9 Tf 12 TL (\256) Tj /F3 9 Tf 12 TL ( Warehouse 3 ) Tj /F4 9 Tf 12 TL (\256) Tj /F3 9 Tf 12 TL ( Customer Zone 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 104.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (The objective is to find the cheapest way to transport products from factories to customers while) Tj T* -0.0513 Tw (respecting factory capacity, warehouse capacity, transportation limits, and customer service requirements.) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 60 72.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (5. Sample Factory Data) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+203 614.9265 148.014 15.5 re
+f*
+0 0 0 rg
+BT
+/F1-0 10.5 Tf
+12.6 TL
+ET
+BT
+1 0 0 1 204 619.2265 Tm
+(Akash L) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Symbol
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /ZapfDingbats
+/Name /F5
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/Contents 13 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font 14 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1197
+>>
+stream
+Gatm<D/Ymt&H88.E?EYHV7*W<9\Pi0bG8i*l5D6[<N2^WCfCEr+O/JE5MKQI1cPfDncCkEms4EY4a)DXM&04M5n*73"t*=XR)!M=Qs(29TAd\(oOih-:Ws,al<%<d$a\q-LGB:oC\DP.#_1G0,!O&#5Sh5reHi-.@T4K_^rTslMc<6aY+[g77#o8@T)(a8B)dm!FpG?T*C%cp`cL.sqa"2'>h)1ZTbu3S\0%Pj@L-iFio56++OV@1G2iIO\;k(na3d)X'h2g$PPEp5bPhD"aDr-!F\6,.'_,MH\[%pOKN].uE@D,so.5X#a$n!0<sbb/33VJ#)]b?pasM#59pA.^'/u`sMbsd/Y8,u`H>P-oMti\(6>RF'p(.OoX/"t(<iL:SlGq\3F$IBGL+rA.n9;Id6TF`H^TiH/-r35TGlO512L0brfA$R3]lk\CD7!452nXi9RMUT\AH&YGO_hDVacpp5a,-8XPg,Sg2e\8\Rm3t@,WY77&34>HVqZ<BE%?.2n\^c'\&3$k3lpmZW.Qr"W^Af!R^]aea>mOKOLD;Q8=N0k[VF;-ae5dq6o(991+''78E2CVb;@lq)\S1CAiQeHg.32^OL)=`QZ*n`IW>hb!5GcNJlNEu\^cTdGA!D-4d?@aoW7H5UKW,H2<h=4g@\E.c_8dn&NYR:e4t1:-e@iF0uucMeD#lj]pT^`\otC4:2QBFh:b-HhMj(->P<Z]gU5FII%"?:XnssH[U[;"D#]sCQ=dQ3)Ucj4"fGc?j\_J^%mQ!MRq7tV\sR_(7&.MTs'@A0U3jYXiZ"R/l([NP-o+$/n'e?LHgr:Q@p"sC>Za7R_R_psXS[?Mno=r8bJ3@cYRdoA(!/#Rl5,hE0kVo>a(r4ln"[f;X0Frdn&$DCI_eC:0/L8c2>fA^&ug_i8SWJYeTOQsoWAJ[:Uf%uXDsbhElC#N2:C8"?\d#s00h<qVR`*AG3pGYk#q3@jt7("kTPWD.M4UR@`759B[M3aOsl>3_mdY\Ph$eKa-#C[k[)fZGg,9=+`S-je\6:Z9p)Oj7*5Yci3fn4.<8@"`bQR6c7>sOZ<iM<;C*s6f@:JG5'3f<jIbGtn>T>`7$lL,e$s.;YkH=kLRC.KhI-;NPe(&s0lUBna.'*37Eh)E#=86rc4^i9@'.!oOSH0QPG8#>lj5H-_]N7-G7>q)l]^T$kD.H7(8D(l~>
+endstream
+endobj
+14 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font 14 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1262
+>>
+stream
+Gb!;dD/\/e&H88.EF/ol?*/o9P-"`[ct;l'+>#Li5b"Ku_8p`B_BL#6`9k>.Ocj99Z09j=YRM(U_`HXqa*Sla3<VZr&\"VT^q0oCNsQ@)P;s0qE0snJ+-X$d1X]CF+Ui'%`+Y1gL@3gorX:`Kee\i@Qt3V&d!eGkOnJA3G.LH-&jD1X/kf9d6"pO)<Df2Yk3u1R?)mJmY;#bZPLgTE++3H`a%:;$p3=1:6Gm&VP;=mCR>Xu-HUpk.HD-+h;kZE?JOWIaSh:J$SB4_Fb%NF`O8[-//d9*3lH#Z.&24l6C%C_3,uu5/Z\9p)M_Z)@qfAU]WO]`sH%VLlX\B,&gruc4PKok(W"ihiQV];f##uFP<!O36_ML`u'2FY-iGc`okrT*J@1_2..-/06J11$@cI5PLFD(cc%)9gO)'h-69p3R1%!-K'j8qLW!l*\dh9*N%Gs:B`[bAp*09ig*!S_mMTnMib9l.j-7G$&"VTq%^g3)36R\=NZ>VkQ3*UT:SY5>42[6iNdM4+ZTAo(9;:T73/9:222]@_l2KL.WBK4itk:Xf-NG?ZGgk;tU(R*NCEdF4=LJr[F'e63RcK\"^+C83]:eSH[MOk%TAOWC>X4rPKA2TkpH`k5dHTgP0*2u>&898&YZ)XE"L0]'e*jS<aJ\Ogh/h1*\C^?N`Y4E@u:S>Ob+W)c``4k4L<DI%pB>hJo0Tn>\Wqun>N(tHN5g1Bf!C"DcK/;6iq%u_h4<;M&Ki-@FokEicEGlaY'DMD)@9ia@`[1mgUBd=#/'FIIg<@)f^H\uMn3u$QC@)Md>60QLe[b,$2Rs%1pXit=L$HT$i`<Aq/M&@b5R`pd`Rjef!Xe1u\]JnXor`YBc"'c?q=TIi^pq+c>Q@%T`9&o-Vio?oMi[<UJ[fPLHE9d^`>M%nRYoR0QlSe+\PZh#N9\kRhqm((S];Ef@12#lQD!^@Cg1SR1.<hY,AK4EYjDF4IL]:CZDgiJOFe*hM9u@'3GRo:K!:Q1R=d?g_bT@Q0Ut9kc/:CW2gB`iTcqUoOg%!qUiOO?7<0"^NZ6k*r$".HL!*!,7rSeP$M3Iu;"m0RPdui[^NZ86p"CE"+j=_rFiVZZ,gA/7Z:=Na4lQST.N$>2Wp1/Xj-p.AoQ+=h#Q#ApP=EoDQXT`R2?%K([.V&mp[V`Nf1rFNGBsQ^CT]T#'?@gtKP66f;7l+!B+,h7gOSAMXq/LVQ/UVf\PQ*r<pL[slN]W&pMj;CW4;Xh[f?qZ6]2A-%dGX?re0Gmc~>
+endstream
+endobj
+17 0 obj
+<<
+/Contents 18 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font 14 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+18 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 396
+>>
+stream
+Gat=e:J\hm&B4,:'^piGb>,ZcbJ=QU:0^=JnP;gaQ7^TWX4n7rN8NIU;QL^LU=lD\p<DrBhEHPL7IH^_J?d+%6D+<>"\E&f:N<MM=-&eB,nL[aMT^:s+"7f@&jO-SjlO!KoeR9pTn5-mqqd9YQpG(])FA?^Dp%,PUDb]=Z7GQbkNNIhcqc48]st954Tm6NK^_N_E8/`fo^:kRjF?RPc*h8&i,@1H1ce`'%!h3[fbmHb;!8CKh4^WlN3dn?hf)TVARuZ\?Bq(S@GD<TIY6Xe7/`ah]4BR=_O>VP/IdRRP@s[u99Wmt`aEVkAVEVVP>uC.q3]$Nr6@TQp:l;5j&9@k;.nPUo2AeIUj`j??(?O2g;!kEdJ?Y1Mpa.\Q&aAjFrId]%dt&D't!c~>
+endstream
+endobj
+19 0 obj
+<<
+/Contents 20 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font 14 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+20 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1272
+>>
+stream
+GauHKCN%ot'`FV1EJ:b4m0;0\j%0'@,t4huFOPh6>DUX6`aQH-X_f36WrIM9N5:7M4hLD[Q(oLjS9s_`50f*E;";rOl@f4VVXS?%JYp?7#L-4AR,5X5l,B82g&Yogi+S-[,91o-Z(!p^TV5E_Z="TF+!!1*p_e**IC+T'*$t^2.GU)66UR"mNs'D@YA*J-VVbeXP"5D"cWNZj[H.upjU`*9X8I1#C5Jn(YJ*jeB01Dc%H%YU!>O-dSY6A95;?[O".T<mWX1`S;".g!:M3o@c@fj"#5K+oE\^/9d(a-($e\l$^;=e2.(pOg"fSZi:Cb"Vg$YS!>5EU@N6C2ar7]_Dn%ffFg7++hHhb1jR*tV07b@K1[\?$Ka3k#l[aDBGY2*&"a-'J:9Y<J_T>2ZXnQ>d4eL"_!5kP<hh)+D6-;._DK7E^rN21P/D_q5'$&hDQPdug/+2iM.Oaoh@m6ILJQ]!2m8;su[*euS+2/5ReDASkU_W]Up'8L&n[NT0<h(asW5^,'Ki3jfDG!g^oiM7NA`qOm$%3kY!3k5o`^b^;iM1SnkID[7\rOjj7]VZan=<(W:(2.Z'BQh)Ln*6bC6TVeJWNC<3;!>]o1/t#.gJFF!P0c#L3%",:RY"O@("WLO:4[q2r;pD5h%_ASoj<`LL-ok"&%O+3;o59!+*/lXj?"DWE`kMGBQ]Tekm"PiMA[0a;jsL=UJ[T`*jpC)3cHTk"tVf=@(J\(#b/9oP>96OnCUdZ<\iflldY[%q]D<sWZ%M]fNopOp1!=ab[\"RI0G$ekU4N6'8ZU-b[<q=7TKQ7.c^r!+5+OY+)Fd;"rUWDKE^*4VWhkVSaT!c*so]>8aC6WHHUW0;,b/6Bu/t'n:4R.@K'EYE4&[<^.QdX4ZL@B*YsLuE1DC7[Sc11S_GX"JZGLnV\&b>r8Lm631e9*Khp`W#,P0a3d"Nk,UoktG>J#=)s84p=bm)uNoNYKbBCL@`]J!R&d30_]t'?8LMgi+7h4g0)$R)4RO'LNSLS;!gE;WadQ>bXVDh7k+dW46V>QFn@0A6["CG=,G+@Xkp+Fc(+b+?kAk98YQ5O`8V?*tZkl@u?H^Po%\:PkR$f=s%P.NP?eHm&j$;h5XnY8%r-;!^6*,SO+QLAP%O4-=Zf/-tJ;=Cg4lJVX9AlHP,0+F@6lnT'^Wk^Lb=[Z[bF/_83m?ZEaLJ?GlZ&rV4&-kZ\9_Q+Xep<\0)s^rjH7)<_hRO!O9E8],3'.4gLRW45)[Y:ji'rH'c/*NDJW%8DX9H\+~>
+endstream
+endobj
+21 0 obj
+<<
+/Contents 22 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font 14 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+22 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 736
+>>
+stream
+GauHJgQ'uA&:N^l7Q^iHdl:E2Q%tNGT9-'fU[eCujX*agME#<&b-G%III2\\J_CK2631n^%PqaFc<q2#r'AS?QiKe]G^#2KR1R;eCu'hR$D2pqY7B8/>m!4Mkq7b_W6n$)miDBr[*.PrORP@Z+KNU?'Nm7+l0shRPS*D)L-o-B;Y2+,#shqJpqiYU3Y!'Flf]SFn:ih@YIlWC\#ss9L(,JZk60dnPNmZ3)Hq`Xk\SDP=YLK<[erFLEEK+6qCufcX^MXQ)fgP$#0h>'FRN*$NYaMVEeMOHXqG/_KP_QQ^n:S6`]<jW<WtLEcg4XqZWHtH<.#mQ?kt1Opk"-pWo0@`"U.53YT+Cpjp9Er@4AIC4hT(?V@J&ME(RQL6X%j$_,m.*r,&:=XQb"s=r+YHbDmR=AY6IR=gcEEBso=c7l2cTKdM$"`oaV0_7J($ShIHq!;3&kELK6'PX.AVHu,9K/ODOs(/&A=<E`2HMFD$cYTYX>>sDmHAJNPBh;]9arI0/`a1G(grMh9pK]L:AlN)[.QB1lX@\JU3Rma`!q>%d/rgXQIDg1*.RcK,WS?G]pb(d]TXr9>oLC[5b)iFb^R\J"\AYjG.OE]q@iL.!.F--6Y315C\fsrDC6rreh%!%aGQU^"8p/!%Cm:eM*bC:E"DgSE\^2K>m*8bW)GU^h/<YjB?rLDTDZ9)EbX6gJS;VImU^5]RVI_&Y8dm"32H3o"Ek0)Er6g"W9&9:h~>
+endstream
+endobj
+23 0 obj
+<<
+/Contents 24 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font 14 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+24 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 550
+>>
+stream
+GauI29lHLd(khAW'dK>ii_nWe"ZqkXc%f**6p\s=7+$mQeePD!@*tpqJ'[Q::2NY$`)8)sMdVobGR"M7g;k8o!k8[/F\X'60EZU/L[Z'<iS\94)l<!GTYU8d>[;Krea!#s4\-Z$*+>Og(s"Qu'CB6`DW=ra@%POWQQd5WS;n0[7!PR@GA>mMpmec0Hg3]/`5CQ6^a6_iHKU<DJ>#StSJe@(7&2'lf=Ftu>YK:CD0T0NXO(ERU(p])6a#^]^+drV2@JYh]+d"lF.CPf=iVfbbArk$m<j2o.O+31@q9.\[*e(D)ObAR-K7KqMmSL6r>]H+m$bX<drp[pCDq!;GZ?].8?36Lc(/A)Vs-c)qs0QO2LJc-Kd`-;''J]_/:)e.s/+ts8e+%f:DB@enNFlfVmXS`S^_+V,HO:904i[iAg'fPah#<rBLEZ^SU@k<o"8I<&p(\.2#khdo>b+.A"@Uoha_<j%HfPfA,&=,BQO8=rk"=2A^Eg/)We>)a`cls&*98Joh_gUP>7sd6gpd\4`\+qFT+f*G4:o-n.,/&HE7~>
+endstream
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000155 00000 n 
+0000000204 00000 n 
+0000000469 00000 n 
+0000004928 00000 n 
+0000005035 00000 n 
+0000005142 00000 n 
+0000005254 00000 n 
+0000005359 00000 n 
+0000005437 00000 n 
+0000005521 00000 n 
+0000005713 00000 n 
+0000007003 00000 n 
+0000007077 00000 n 
+0000007269 00000 n 
+0000008624 00000 n 
+0000008816 00000 n 
+0000009304 00000 n 
+0000009496 00000 n 
+0000010861 00000 n 
+0000011053 00000 n 
+0000011881 00000 n 
+0000012073 00000 n 
+trailer
+<<
+/Size 25
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+12715
+%%EOF
